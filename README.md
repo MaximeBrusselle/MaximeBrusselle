@@ -7,8 +7,8 @@ Web and App developer
 * 🌍  I'm based in Ghent
 * 🖥️  See my portfolio at [this link](http://maxime-brusselle.web.app)
 * ✉️  You can contact me at [maxime.brusselle@gmail.com](mailto:maxime.brusselle@gmail.com)
-* 🚀  I'm currently working on [My portfolio](http://maxime-brusselle.web.app)
-* 🧠  I'm learning Solidjs
+* 🚀  I'm currently working on [A gitlab planning tool for my team at work](http://github.com/maximebrusselle/gitlabplanner)
+* 🧠  I'm learning Astro atm
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
