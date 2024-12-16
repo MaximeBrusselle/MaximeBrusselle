@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and App developer
 ---------------------
 
-* 🌍  I'm based in Ghent
+* 🌍  I'm based in Sint-Gillis-Waas
 * 🖥️  See my portfolio at [this link](http://maxime-brusselle.web.app)
 * ✉️  You can contact me at [maxime.brusselle@gmail.com](mailto:maxime.brusselle@gmail.com)
 * 🚀  I'm currently working on [A gitlab planning tool for my team at work](http://github.com/maximebrusselle/gitlabplanner)
